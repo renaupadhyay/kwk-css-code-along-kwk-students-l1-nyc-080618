@@ -1,1 +1,17 @@
 /* add CSS class and element and selectors here */
+body {
+  font-size: 100%;
+  color: black;
+  background: linear-gradient(90deg, rgba(200,0,0,.5) 50%, transparent 50%),
+linear-gradient(rgba(200,0,0,.5) 50%, transparent 50%);
+background-size:50px 50px;
+  
+}
+
+.renasampleclass {
+  color: #0DCEFF;
+  font-size: 200x;
+  font-family: Impact;
+  border: 1px solid #f00;
+	background: pink
+}
